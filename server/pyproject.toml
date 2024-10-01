@@ -1,0 +1,9 @@
+[project]
+name = "movie.io"
+version = "2020.0.0"
+dependencies = [
+  "fastapi[standard]",
+  "dotenv"
+]
+
+requires-python = ">=3.8"
